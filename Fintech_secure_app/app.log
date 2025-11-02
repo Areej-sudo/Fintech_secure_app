@@ -1,0 +1,264 @@
+2025-10-31 23:06:25,261 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-31 23:06:25,261 - [33mPress CTRL+C to quit[0m
+2025-10-31 23:06:25,263 -  * Restarting with stat
+2025-10-31 23:06:25,699 -  * Debugger is active!
+2025-10-31 23:06:25,701 -  * Debugger PIN: 985-099-439
+2025-10-31 23:10:37,329 -  * Detected change in 'C:\\Users\\perso\\Desktop\\Fintech_secure_app\\app.py', reloading
+2025-10-31 23:10:37,399 -  * Restarting with stat
+2025-10-31 23:10:38,140 -  * Debugger is active!
+2025-10-31 23:10:38,145 -  * Debugger PIN: 985-099-439
+2025-10-31 23:11:45,190 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-31 23:11:45,193 - [33mPress CTRL+C to quit[0m
+2025-10-31 23:11:45,195 -  * Restarting with stat
+2025-10-31 23:11:45,627 -  * Debugger is active!
+2025-10-31 23:11:45,629 -  * Debugger PIN: 985-099-439
+2025-10-31 23:19:24,468 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-31 23:19:24,468 - [33mPress CTRL+C to quit[0m
+2025-10-31 23:19:24,471 -  * Restarting with stat
+2025-10-31 23:19:24,909 -  * Debugger is active!
+2025-10-31 23:19:24,911 -  * Debugger PIN: 985-099-439
+2025-10-31 23:20:16,522 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-31 23:20:16,522 - [33mPress CTRL+C to quit[0m
+2025-10-31 23:21:46,695 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-31 23:21:46,695 - [33mPress CTRL+C to quit[0m
+2025-10-31 23:22:43,956 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-31 23:22:43,956 - [33mPress CTRL+C to quit[0m
+2025-10-31 23:22:43,958 -  * Restarting with stat
+2025-10-31 23:22:44,376 -  * Debugger is active!
+2025-10-31 23:22:44,378 -  * Debugger PIN: 985-099-439
+2025-10-31 23:23:39,033 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-31 23:23:39,034 - [33mPress CTRL+C to quit[0m
+2025-10-31 23:23:39,036 -  * Restarting with stat
+2025-10-31 23:23:39,454 -  * Debugger is active!
+2025-10-31 23:23:39,455 -  * Debugger PIN: 985-099-439
+2025-10-31 23:23:59,051 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-31 23:23:59,051 - [33mPress CTRL+C to quit[0m
+2025-10-31 23:24:10,624 - 127.0.0.1 - - [31/Oct/2025 23:24:10] "GET / HTTP/1.1" 200 -
+2025-10-31 23:24:10,643 - 127.0.0.1 - - [31/Oct/2025 23:24:10] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-10-31 23:24:10,675 - 127.0.0.1 - - [31/Oct/2025 23:24:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-31 23:27:07,709 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-31 23:27:07,709 - [33mPress CTRL+C to quit[0m
+2025-10-31 23:27:07,711 -  * Restarting with stat
+2025-10-31 23:27:08,138 -  * Debugger is active!
+2025-10-31 23:27:08,142 -  * Debugger PIN: 985-099-439
+2025-10-31 23:27:32,838 - 127.0.0.1 - - [31/Oct/2025 23:27:32] "GET / HTTP/1.1" 200 -
+2025-10-31 23:27:32,850 - 127.0.0.1 - - [31/Oct/2025 23:27:32] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-10-31 23:39:02,884 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-31 23:39:02,887 - [33mPress CTRL+C to quit[0m
+2025-10-31 23:39:02,953 -  * Restarting with watchdog (windowsapi)
+2025-10-31 23:39:04,086 -  * Debugger is active!
+2025-10-31 23:39:04,096 -  * Debugger PIN: 108-736-580
+2025-10-31 23:39:23,301 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sse_starlette\\event.py', reloading
+2025-10-31 23:39:23,333 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sse_starlette\\sse.py', reloading
+2025-10-31 23:39:23,366 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\statsmodels\\__init__.py', reloading
+2025-10-31 23:39:23,399 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\statsmodels\\_version.py', reloading
+2025-10-31 23:39:23,437 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\storage3\\__init__.py', reloading
+2025-10-31 23:39:23,476 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\storage3\\_async\\__init__.py', reloading
+2025-10-31 23:39:23,511 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\storage3\\_async\\client.py', reloading
+2025-10-31 23:39:23,546 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\storage3\\_async\\bucket.py', reloading
+2025-10-31 23:39:23,587 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\storage3\\_async\\file_api.py', reloading
+2025-10-31 23:39:23,615 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\storage3\\_sync\\__init__.py', reloading
+2025-10-31 23:39:23,651 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\storage3\\_sync\\client.py', reloading
+2025-10-31 23:39:23,687 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\storage3\\_sync\\bucket.py', reloading
+2025-10-31 23:39:23,739 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\storage3\\_sync\\file_api.py', reloading
+2025-10-31 23:39:23,749 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\storage3\\version.py', reloading
+2025-10-31 23:39:23,793 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\__init__.py', reloading
+2025-10-31 23:39:23,876 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\commands\\echo.py', reloading
+2025-10-31 23:39:23,912 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\commands\\logo.py', reloading
+2025-10-31 23:39:23,960 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\commands\\navigation.py', reloading
+2025-10-31 23:39:24,006 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\navigation\\page.py', reloading
+2025-10-31 23:39:24,058 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\elements\\spinner.py', reloading
+2025-10-31 23:39:24,117 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\commands\\page_config.py', reloading
+2025-10-31 23:39:24,160 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\commands\\execution_control.py', reloading
+2025-10-31 23:39:24,227 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\structlog\\__init__.py', reloading
+2025-10-31 23:39:24,394 -  * Restarting with watchdog (windowsapi)
+2025-10-31 23:39:25,464 -  * Debugger is active!
+2025-10-31 23:39:25,474 -  * Debugger PIN: 108-736-580
+2025-10-31 23:39:25,718 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tensorflow_datasets\\__init__.py', reloading
+2025-10-31 23:39:25,804 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tensorflow_datasets\\public_api.py', reloading
+2025-10-31 23:39:25,843 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tensorflow_metadata\\__init__.py', reloading
+2025-10-31 23:39:25,869 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\termcolor\\__init__.py', reloading
+2025-10-31 23:39:25,910 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\termcolor\\termcolor.py', reloading
+2025-10-31 23:39:25,942 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\terminado\\__init__.py', reloading
+2025-10-31 23:39:25,968 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tests\\__init__.py', reloading
+2025-10-31 23:39:25,992 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tiktoken\\__init__.py', reloading
+2025-10-31 23:39:26,026 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tiktoken\\core.py', reloading
+2025-10-31 23:39:26,073 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tiktoken\\model.py', reloading
+2025-10-31 23:39:26,120 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tiktoken\\registry.py', reloading
+2025-10-31 23:39:26,158 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tinycss2\\__init__.py', reloading
+2025-10-31 23:39:26,183 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tinyhtml5\\__init__.py', reloading
+2025-10-31 23:39:26,241 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tinyhtml5\\parser.py', reloading
+2025-10-31 23:39:26,369 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tomli\\__init__.py', reloading
+2025-10-31 23:39:26,416 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\tomli\\_parser.py', reloading
+2025-10-31 23:39:26,461 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\typer\\__init__.py', reloading
+2025-10-31 23:39:26,519 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\typer\\main.py', reloading
+2025-10-31 23:39:26,692 -  * Restarting with watchdog (windowsapi)
+2025-10-31 23:39:27,789 -  * Debugger is active!
+2025-10-31 23:39:27,799 -  * Debugger PIN: 108-736-580
+2025-10-31 23:39:27,886 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\validators\\country.py', reloading
+2025-10-31 23:39:27,917 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\validators\\crypto_addresses\\__init__.py', reloading
+2025-10-31 23:39:27,945 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\validators\\crypto_addresses\\bsc_address.py', reloading
+2025-10-31 23:39:27,948 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\validators\\crypto_addresses\\btc_address.py', reloading
+2025-10-31 23:39:27,978 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\validators\\crypto_addresses\\eth_address.py', reloading
+2025-10-31 23:39:28,015 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\validators\\crypto_addresses\\trx_address.py', reloading
+2025-10-31 23:39:28,051 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\validators\\encoding.py', reloading
+2025-10-31 23:39:28,090 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\validators\\finance.py', reloading
+2025-10-31 23:39:28,124 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\validators\\hashes.py', reloading
+2025-10-31 23:39:28,152 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\validators\\i18n\\__init__.py', reloading
+2025-10-31 23:39:28,196 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\validators\\i18n\\es.py', reloading
+2025-10-31 23:39:28,232 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\validators\\i18n\\fi.py', reloading
+2025-10-31 23:39:28,271 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\validators\\i18n\\fr.py', reloading
+2025-10-31 23:39:28,303 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\validators\\i18n\\ind.py', reloading
+2025-10-31 23:39:28,351 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\validators\\ip_address.py', reloading
+2025-10-31 23:39:28,390 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\validators\\utils.py', reloading
+2025-10-31 23:39:28,424 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\watchfiles\\__init__.py', reloading
+2025-10-31 23:39:28,457 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\watchfiles\\filters.py', reloading
+2025-10-31 23:39:28,491 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\watchfiles\\main.py', reloading
+2025-10-31 23:39:28,533 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\watchfiles\\run.py', reloading
+2025-10-31 23:39:28,562 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\watchfiles\\version.py', reloading
+2025-10-31 23:39:28,614 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\weasyprint\\__init__.py', reloading
+2025-10-31 23:39:28,668 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\weasyprint\\urls.py', reloading
+2025-10-31 23:39:28,721 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\weasyprint\\document.py', reloading
+2025-10-31 23:39:28,761 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\webcolors\\__init__.py', reloading
+2025-10-31 23:39:28,806 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\webcolors\\_conversion.py', reloading
+2025-10-31 23:39:28,856 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\webcolors\\_definitions.py', reloading
+2025-10-31 23:39:29,015 -  * Restarting with watchdog (windowsapi)
+2025-10-31 23:39:30,139 -  * Debugger is active!
+2025-10-31 23:39:30,149 -  * Debugger PIN: 108-736-580
+2025-10-31 23:39:30,244 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\yarl\\_url.py', reloading
+2025-10-31 23:39:30,286 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\zipp\\__init__.py', reloading
+2025-10-31 23:39:30,322 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\zopfli\\__init__.py', reloading
+2025-10-31 23:39:30,427 -  * Detected change in 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pythonwin\\pywin\\__init__.py', reloading
+2025-10-31 23:39:31,370 -  * Restarting with watchdog (windowsapi)
+2025-10-31 23:39:32,478 -  * Debugger is active!
+2025-10-31 23:39:32,486 -  * Debugger PIN: 108-736-580
+2025-10-31 23:41:13,825 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-31 23:41:13,826 - [33mPress CTRL+C to quit[0m
+2025-10-31 23:41:13,873 -  * Restarting with watchdog (windowsapi)
+2025-10-31 23:41:15,204 -  * Debugger is active!
+2025-10-31 23:41:15,212 -  * Debugger PIN: 108-736-580
+2025-10-31 23:41:19,545 - 127.0.0.1 - - [31/Oct/2025 23:41:19] "GET / HTTP/1.1" 200 -
+2025-10-31 23:41:19,779 - 127.0.0.1 - - [31/Oct/2025 23:41:19] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-10-31 23:41:20,716 - 127.0.0.1 - - [31/Oct/2025 23:41:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-31 23:41:50,692 - 127.0.0.1 - - [31/Oct/2025 23:41:50] "GET /login HTTP/1.1" 200 -
+2025-10-31 23:41:50,854 - 127.0.0.1 - - [31/Oct/2025 23:41:50] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-10-31 23:45:47,526 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-31 23:45:47,526 - [33mPress CTRL+C to quit[0m
+2025-10-31 23:45:47,585 -  * Restarting with watchdog (windowsapi)
+2025-10-31 23:45:48,712 -  * Debugger is active!
+2025-10-31 23:45:48,722 -  * Debugger PIN: 108-736-580
+2025-10-31 23:45:54,693 - 127.0.0.1 - - [31/Oct/2025 23:45:54] "GET / HTTP/1.1" 200 -
+2025-10-31 23:45:54,854 - 127.0.0.1 - - [31/Oct/2025 23:45:54] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-10-31 23:45:56,821 - 127.0.0.1 - - [31/Oct/2025 23:45:56] "GET / HTTP/1.1" 200 -
+2025-10-31 23:45:56,936 - 127.0.0.1 - - [31/Oct/2025 23:45:56] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-10-31 23:48:49,388 - 127.0.0.1 - - [31/Oct/2025 23:48:49] "GET / HTTP/1.1" 200 -
+2025-10-31 23:48:49,573 - 127.0.0.1 - - [31/Oct/2025 23:48:49] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-10-31 23:49:54,728 - 127.0.0.1 - - [31/Oct/2025 23:49:54] "[33mGET /static/css HTTP/1.1[0m" 404 -
+2025-10-31 23:49:54,896 - 127.0.0.1 - - [31/Oct/2025 23:49:54] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-10-31 23:52:03,380 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-31 23:52:03,381 - [33mPress CTRL+C to quit[0m
+2025-10-31 23:52:03,419 -  * Restarting with watchdog (windowsapi)
+2025-10-31 23:52:04,572 -  * Debugger is active!
+2025-10-31 23:52:04,588 -  * Debugger PIN: 108-736-580
+2025-10-31 23:52:06,435 - 127.0.0.1 - - [31/Oct/2025 23:52:06] "GET / HTTP/1.1" 200 -
+2025-10-31 23:52:06,714 - 127.0.0.1 - - [31/Oct/2025 23:52:06] "GET /static/style.css HTTP/1.1" 200 -
+2025-10-31 23:52:09,901 - 127.0.0.1 - - [31/Oct/2025 23:52:09] "GET /login HTTP/1.1" 200 -
+2025-10-31 23:52:10,006 - 127.0.0.1 - - [31/Oct/2025 23:52:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-10-31 23:52:11,068 - 127.0.0.1 - - [31/Oct/2025 23:52:11] "GET / HTTP/1.1" 200 -
+2025-10-31 23:52:11,174 - 127.0.0.1 - - [31/Oct/2025 23:52:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-10-31 23:53:24,916 - 127.0.0.1 - - [31/Oct/2025 23:53:24] "GET / HTTP/1.1" 200 -
+2025-10-31 23:53:25,102 - 127.0.0.1 - - [31/Oct/2025 23:53:25] "GET /static/style.css HTTP/1.1" 200 -
+2025-10-31 23:55:05,284 - 127.0.0.1 - - [31/Oct/2025 23:55:05] "GET / HTTP/1.1" 200 -
+2025-10-31 23:55:05,480 - 127.0.0.1 - - [31/Oct/2025 23:55:05] "GET /static/style.css HTTP/1.1" 200 -
+2025-10-31 23:55:07,855 - 127.0.0.1 - - [31/Oct/2025 23:55:07] "GET / HTTP/1.1" 200 -
+2025-10-31 23:55:07,950 - 127.0.0.1 - - [31/Oct/2025 23:55:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-10-31 23:55:09,179 - 127.0.0.1 - - [31/Oct/2025 23:55:09] "GET /login HTTP/1.1" 200 -
+2025-10-31 23:55:09,270 - 127.0.0.1 - - [31/Oct/2025 23:55:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-10-31 23:55:10,246 - 127.0.0.1 - - [31/Oct/2025 23:55:10] "GET /register HTTP/1.1" 200 -
+2025-10-31 23:55:10,359 - 127.0.0.1 - - [31/Oct/2025 23:55:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-10-31 23:55:12,156 - 127.0.0.1 - - [31/Oct/2025 23:55:12] "GET / HTTP/1.1" 200 -
+2025-10-31 23:55:12,291 - 127.0.0.1 - - [31/Oct/2025 23:55:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-01 12:45:16,032 -  * Detected change in 'C:\\Users\\admin\\Pictures\\Saved Pictures\\Fintech_secure_app\\app.py', reloading
+2025-11-01 12:45:17,130 -  * Restarting with watchdog (windowsapi)
+2025-11-01 12:45:18,028 -  * Debugger is active!
+2025-11-01 12:45:18,039 -  * Debugger PIN: 108-736-580
+2025-11-02 00:05:30,685 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-02 00:05:30,685 - [33mPress CTRL+C to quit[0m
+2025-11-02 00:05:30,689 -  * Restarting with stat
+2025-11-02 00:05:31,127 -  * Debugger is active!
+2025-11-02 00:05:31,137 -  * Debugger PIN: 985-099-439
+2025-11-02 00:07:50,043 -  * Detected change in 'C:\\Users\\perso\\Downloads\\Fintech_secure_app\\app.py', reloading
+2025-11-02 00:07:50,206 -  * Restarting with stat
+2025-11-02 00:22:09,399 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-02 00:22:09,399 - [33mPress CTRL+C to quit[0m
+2025-11-02 00:22:09,400 -  * Restarting with stat
+2025-11-02 00:22:09,869 -  * Debugger is active!
+2025-11-02 00:22:09,871 -  * Debugger PIN: 985-099-439
+2025-11-02 00:22:11,428 - Opened browser to http://127.0.0.1:5000
+2025-11-02 00:22:11,542 - 127.0.0.1 - - [02/Nov/2025 00:22:11] "GET / HTTP/1.1" 200 -
+2025-11-02 00:22:11,620 - 127.0.0.1 - - [02/Nov/2025 00:22:11] "GET /static/style.css HTTP/1.1" 200 -
+2025-11-02 00:22:11,643 - 127.0.0.1 - - [02/Nov/2025 00:22:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-02 00:27:39,631 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-02 00:27:39,631 - [33mPress CTRL+C to quit[0m
+2025-11-02 00:27:39,634 -  * Restarting with stat
+2025-11-02 00:27:40,043 -  * Debugger is active!
+2025-11-02 00:27:40,044 -  * Debugger PIN: 985-099-439
+2025-11-02 00:27:41,781 - Opened browser to http://127.0.0.1:5000
+2025-11-02 00:27:42,105 - 127.0.0.1 - - [02/Nov/2025 00:27:42] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-11-02 00:27:42,213 - 127.0.0.1 - - [02/Nov/2025 00:27:42] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-11-02 00:27:42,221 - 127.0.0.1 - - [02/Nov/2025 00:27:42] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-11-02 00:27:42,305 - 127.0.0.1 - - [02/Nov/2025 00:27:42] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=G6H5p3rCjpgjKcWQTJgP HTTP/1.1" 200 -
+2025-11-02 00:27:42,313 - 127.0.0.1 - - [02/Nov/2025 00:27:42] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-11-02 00:29:45,972 -  * Detected change in 'C:\\Users\\perso\\Downloads\\Fintech_secure_app\\app.py', reloading
+2025-11-02 00:29:46,056 -  * Restarting with stat
+2025-11-02 00:29:46,576 -  * Debugger is active!
+2025-11-02 00:29:46,578 -  * Debugger PIN: 985-099-439
+2025-11-02 00:29:48,409 - Opened browser to http://127.0.0.1:5000
+2025-11-02 00:29:48,509 - 127.0.0.1 - - [02/Nov/2025 00:29:48] "GET / HTTP/1.1" 200 -
+2025-11-02 00:29:48,575 - 127.0.0.1 - - [02/Nov/2025 00:29:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 00:29:51,946 - 127.0.0.1 - - [02/Nov/2025 00:29:51] "GET /register HTTP/1.1" 200 -
+2025-11-02 00:29:51,961 - 127.0.0.1 - - [02/Nov/2025 00:29:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 00:30:04,408 - 127.0.0.1 - - [02/Nov/2025 00:30:04] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-11-02 00:30:04,413 - 127.0.0.1 - - [02/Nov/2025 00:30:04] "GET /register HTTP/1.1" 200 -
+2025-11-02 00:30:04,427 - 127.0.0.1 - - [02/Nov/2025 00:30:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 00:30:13,040 - 127.0.0.1 - - [02/Nov/2025 00:30:13] "GET / HTTP/1.1" 200 -
+2025-11-02 00:30:13,059 - 127.0.0.1 - - [02/Nov/2025 00:30:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 00:30:15,315 - 127.0.0.1 - - [02/Nov/2025 00:30:15] "GET /login HTTP/1.1" 200 -
+2025-11-02 00:30:15,334 - 127.0.0.1 - - [02/Nov/2025 00:30:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 00:30:16,363 - 127.0.0.1 - - [02/Nov/2025 00:30:16] "GET /register HTTP/1.1" 200 -
+2025-11-02 00:30:16,381 - 127.0.0.1 - - [02/Nov/2025 00:30:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 00:30:38,431 - 127.0.0.1 - - [02/Nov/2025 00:30:38] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-11-02 00:30:38,437 - 127.0.0.1 - - [02/Nov/2025 00:30:38] "GET /register HTTP/1.1" 200 -
+2025-11-02 00:30:38,453 - 127.0.0.1 - - [02/Nov/2025 00:30:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 00:32:31,934 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-02 00:32:31,934 - [33mPress CTRL+C to quit[0m
+2025-11-02 00:32:31,936 -  * Restarting with stat
+2025-11-02 00:32:32,367 -  * Debugger is active!
+2025-11-02 00:32:32,370 -  * Debugger PIN: 985-099-439
+2025-11-02 00:32:34,069 - Opened browser to http://127.0.0.1:5000
+2025-11-02 00:32:34,220 - 127.0.0.1 - - [02/Nov/2025 00:32:34] "GET / HTTP/1.1" 200 -
+2025-11-02 00:32:34,301 - 127.0.0.1 - - [02/Nov/2025 00:32:34] "GET /static/style.css HTTP/1.1" 200 -
+2025-11-02 00:32:40,517 - 127.0.0.1 - - [02/Nov/2025 00:32:40] "GET /register HTTP/1.1" 200 -
+2025-11-02 00:32:40,538 - 127.0.0.1 - - [02/Nov/2025 00:32:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 00:32:56,290 - 127.0.0.1 - - [02/Nov/2025 00:32:56] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-11-02 00:32:56,295 - 127.0.0.1 - - [02/Nov/2025 00:32:56] "GET /register HTTP/1.1" 200 -
+2025-11-02 00:32:56,311 - 127.0.0.1 - - [02/Nov/2025 00:32:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 00:36:03,901 -  * Detected change in 'C:\\Users\\perso\\Downloads\\Fintech_secure_app\\app.py', reloading
+2025-11-02 00:36:04,024 -  * Restarting with stat

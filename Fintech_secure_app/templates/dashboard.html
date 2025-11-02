@@ -1,0 +1,57 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="grid">
+  <div class="card balance-card">
+    <h3>Welcome, {{ user|e }}</h3>
+    <p class="small">Account Balance</p>
+    <div class="balance">$12,450.00</div>
+  </div>
+
+  <div class="card transactions-card">
+    <h3>Recent Transactions</h3>
+    <table class="transactions">
+      <thead><tr><th>Date</th><th>Description</th><th>Amount</th></tr></thead>
+      <tbody>
+        {% for t in data %}
+          <tr>
+            <td>{{ t.date }}</td>
+            <td>{{ t.desc }}</td>
+            <td class="{{ 'deposit' if '+' in t.amount else 'withdraw' }}">{{ t.amount }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+  <div class="card tools-card">
+    <h3>Encrypt / Decrypt Tool</h3>
+
+    <form method="POST" action="{{ url_for('encrypt_data') }}">
+      <input name="text" placeholder="Enter text to encrypt" required maxlength="1000">
+      <button class="btn" type="submit">Encrypt</button>
+    </form>
+
+    <form method="POST" action="{{ url_for('decrypt_data') }}" style="margin-top:12px;">
+      <input name="text" placeholder="Enter encrypted text to decrypt" required maxlength="2000">
+      <button class="btn-outline" type="submit">Decrypt</button>
+    </form>
+
+    {% if encrypted %}
+      <div class="result">
+        <label>Encrypted result (copy & store safely):</label>
+        <textarea readonly>{{ encrypted }}</textarea>
+      </div>
+    {% elif decrypted %}
+      <div class="result">
+        <label>Decrypted result:</label>
+        <textarea readonly>{{ decrypted }}</textarea>
+      </div>
+    {% elif result %}
+      <div class="result">
+        <label>Result:</label>
+        <textarea readonly>{{ result }}</textarea>
+      </div>
+    {% endif %}
+  </div>
+</div>
+{% endblock %}

@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="card form-card">
+  <h2>Create account</h2>
+  <form method="POST" action="{{ url_for('register') }}">
+    <input name="username" placeholder="Username" required minlength="3" maxlength="20" pattern="[A-Za-z0-9_]+" title="Letters, numbers and underscore only">
+    <input name="email" type="email" placeholder="Email" required>
+    <input name="password" type="password" placeholder="Password (8+ chars, upper+lower+digit+symbol)" required>
+    <input name="confirm" type="password" placeholder="Confirm password" required>
+    <div class="form-row">
+      <button type="submit" class="btn">Register</button>
+      <a class="btn-link" href="{{ url_for('login') }}">Already have account?</a>
+    </div>
+  </form>
+</div>
+{% endblock %}

@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% block content %}
+<section class="hero">
+  <h1>Welcome to Secure FinTech Mini App</h1>
+  <p>Secure authentication, input validation, encryption demo, and a professional dashboard.</p>
+  <div class="cta-row">
+    <a class="btn" href="{{ url_for('register') }}">Get Started</a>
+    <a class="btn-outline" href="{{ url_for('login') }}">Sign In</a>
+  </div>
+</section>
+{% endblock %}
